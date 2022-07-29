@@ -34,7 +34,7 @@ pytz==2017.2
 PyYAML==3.12
 queuelib==1.4.2
 requests==2.9.1
-Scrapy==1.1.1
+Scrapy==2.6.2
 semantic-version==2.5.0
 service-identity==16.0.0
 six==1.10.0
